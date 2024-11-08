@@ -1,0 +1,49 @@
+#nav{
+    display: flex;
+    padding-inline: 422px;
+    justify-content: space-between;
+
+
+}
+
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    padding-top: 16px;
+    padding-top: 136px;
+    width: 1335px;
+    height: 675px;
+    
+    
+}
+
+
+#main{
+    display: flex;
+    justify-content: center;
+    margin-top: 111px;
+    margin-left: -267px;
+   
+    
+}
+
+.centerBut{
+    display: flex;
+    justify-content: space-around;
+}
+
+.layka{
+    color: red;
+}
+
+.bouhom{
+    display: flex;
+}
+
+.TRHRT{
+    display: flex;
+    justify-content: space-around;
+    font-size: x-large;
+}
